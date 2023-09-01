@@ -1,5 +1,5 @@
 # Interop_Excel_App
-Bu uygulama, EEPlus kutuphanesini kullanarak excel dosyalarini islemek icin tasarlanmistir. Uygulama kaynak excel dosyasindaki verileri okur, belirlenen bir filtreye gore secer ve secilen verileri hedef excel dosyasina yazar. Boylece, istediginiz verileri kolayca baska bir excel sayfasina aktarabilirsiniz.
+Bu uygulama, EPPlus kutuphanesini kullanarak excel dosyalarini islemek icin tasarlanmistir. Uygulama kaynak excel dosyasindaki verileri okur, belirlenen bir filtreye gore secer ve secilen verileri hedef excel dosyasina yazar. Boylece, istediginiz verileri kolayca baska bir excel sayfasina aktarabilirsiniz.
 ## Geliştirici
 - Projenin geliştiricisi: Bilal CIFCI
 - E-posta: cifci.bilal@outlook.com
